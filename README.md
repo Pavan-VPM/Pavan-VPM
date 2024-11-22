@@ -1,11 +1,11 @@
 👋 Hello, World! I’m Pavan 🌎
 Welcome to my GitHub profile—a place where bugs become features, and code becomes magic (eventually). 🚀
 
-🧠 About Me
+🧠 About Me!!
 Job title? Professional Googler.
 Coding style? Somewhere between “It works!” and “Why does this work?”
 Superpower? Turning caffeine into poorly written comments. ☕💻
-🤓 What I Do
+🤓 What I Do ??
 I write code that sometimes does what I want it to. My specialties include:
 
 Debugging with a mix of hope and tears.
