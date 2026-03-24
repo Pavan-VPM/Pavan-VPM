@@ -11,7 +11,7 @@ I write code that sometimes does what I want it to. My specialties include:<br>
 
 Debugging with a mix of hope and tears.<br>
 Naming variables like thingy and doStuff.<br>
-Spending 5 hours automating something that takes 5 minutes manually.<br><br>
+Spending 5 hours automating something that takes 5 minutes manually.<br>
 <br>
 Fun Facts
 I once fixed a bug by deleting the entire file. No regrets.<br>
@@ -22,6 +22,7 @@ Tools of Chaos<br>
 Editor of choice:  VS Code (because it’s got pretty themes).<br>
 Keyboard shortcuts: I know one. It’s called Ctrl+C and Ctrl+V.<br>
 Languages: Fluent in Python, JavaScript, and sarcasm.<br>
+<br>
 Life Goals<br>
 Make my code so good, future developers don’t curse my name.<br>
 Automate something pointless but hilarious.<br>
