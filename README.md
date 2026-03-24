@@ -1,4 +1,4 @@
-👋 Hello, World! I’m Pavan 🌎
+👋 Hello, World! I’m Pavan 🌎 \n
 Welcome to my GitHub profile—a place where bugs become features, and code becomes magic (eventually). 🚀
 
 🧠 About Me!!
